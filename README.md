@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlapDash - Learn Time Complexity by Playing
 
 
@@ -59,3 +60,6 @@ To try the script in another project: create a Unity 6 project (Universal 2D tem
 
 
 
+=======
+# FlapDashGame
+>>>>>>> a329801d6e773a930ed84410706ba439c010e49f
